@@ -6,7 +6,6 @@ public class Bird extends Pet {
         super(name);
     }
 
-
     //overide is due to the abstract class contain the common methods
     //shared between all the classes
     @Override
